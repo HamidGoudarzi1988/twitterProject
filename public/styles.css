@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+.editable:empty:before {
+  content: attr(data-placeholder);
+  color: #999999;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+a:visited {
+  color: unset;
+}
+
+
+.uni_m_b_small{
+  margin-bottom: 1rem;
+  /* border: none;
+  border-bottom: 2px solid black; */
+  background-color: #e8ebe9;
+  border: none;
+  padding: 0.8rem;
+
+}
+

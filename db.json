@@ -1,0 +1,150 @@
+{
+  "twitterUsers": [
+    {
+      "name": "Xiaomi",
+      "id": "@Xiaomi",
+      "img": "/images/user img1.png"
+    },
+    {
+      "name": "Samsung",
+      "id": "@samsung",
+      "img": "/images/user img2.png"
+    },
+    {
+      "name": "Bill Gates",
+      "id": "@BillGates",
+      "img": "/images/user img3.png"
+    },
+    {
+      "name": "Mike BAI",
+      "id": "@Mike_IMC",
+      "img": "/images/user img4.png"
+    },
+    {
+      "name": "Shirley",
+      "id": "@Shirley_IMC",
+      "img": "/images/user img5.png"
+    }
+  ],
+  "tweets": [
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": " ipsum dolor sit amet #consectetur adipisicing elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 7
+    },
+    {
+      "sender": {
+        "name": "Siamak",
+        "id": "@ssiiaa",
+        "img": "/images/user img.png"
+      },
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing #elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 16
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": " amet consectetur adipisicing elit. #Accusantium quas ea consectetur alias? Eni",
+      "like": 13
+    },
+    {
+      "sender": {
+        "name": "Siamak",
+        "id": "@ssiiaa",
+        "img": "/images/user img.png"
+      },
+      "text": " consectetur #adipisicing elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 6
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": "Lorem ipsum dolor sit amet #consectetur adipisicing elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 23
+    },
+    {
+      "sender": {
+        "name": "Siamak",
+        "id": "@ssiiaa",
+        "img": "/images/user img.png"
+      },
+      "text": "Lorem #ipsum dolor sit amet consectetur #adipisicing elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 2
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": "Lorem ipsum dolor sit amet consectetur #adipisicing #elit. Accusantium quas ea consectetur alias? Eni",
+      "like": 9
+    },
+    {
+      "sender": {
+        "name": "Siamak",
+        "id": "@ssiiaa",
+        "img": "/images/user img.png"
+      },
+      "text": " adipisicing elit. Accusantium quas ea consectetur alias? ",
+      "like": 12
+    },
+    {
+      "id": 44,
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": "hello Hamid",
+      "like": 7
+    },
+    {
+      "id": 964,
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": "hello Hamid",
+      "like": 7
+    },
+    {
+      "id": 51,
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/user img2.png"
+      },
+      "text": "This a POST request",
+      "like": 7
+    },
+    {
+      "id": 472,
+      "sender": {
+        "name": "hamid",
+        "id": "@hamidg",
+        "img": "/images/user img2.png"
+      },
+      "text": "A new change after all",
+      "like": 9
+    }
+  ],
+  "hashTags": [
+    "COVID-19",
+    "TESLA",
+    "Stock_Trading",
+    "SECOND_WAVE",
+    "VACCINE"
+  ]
+}
